@@ -1,6 +1,13 @@
 # Welcome to the Dutch Django sprint 2015!
 
-#### During this 2-day sprint we'll join forces and contribute to the Django Web Framework.
+During this 2-day sprint we'll join forces and contribute to the Django
+Web Framework. We hope to resolve many tickets again, and make Django
+even better, more advanced and powerful. We try to have at least one
+sprint every year. You can follow us on Meetup.com and Twitter.
+
+- Misschien wat info over wat de laatste tijd gebeurd is met Django?
+  Nieuwe website, migrations in 1.7, nieuwe ontwikkelingen, wat gaat er
+  komen, beetje globaal beeld.
 
 
 ## How does it work?
