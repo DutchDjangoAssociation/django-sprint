@@ -21,12 +21,11 @@ you have a question, don't hesitate to ask someone.
 It's recommended to start with something easy, like improving
 documentation or fix a simple bug. Through this you'll get a better idea
 how the contribution process works, and you will be more successful for
-your bigger contributions later on!
-
-That's the basic idea. You can work on something by yourself, team up
-with others, pair program, or have an occasional good talk with your
-fellow Django-enthusiasts! Lunch, dinner, drinks and snacks are provided
-and in the evening we'll have some cold beers for you.
+your bigger contributions later on. You can work on something by
+yourself, team up with others, pair program, or have an occasional good
+talk with your fellow Django-enthusiasts! Lunch, dinner, drinks and
+snacks are provided and in the evening we'll have some cold beers for
+you.
 
 
 ## Where do I begin?
