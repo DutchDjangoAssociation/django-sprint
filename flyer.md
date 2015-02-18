@@ -2,7 +2,7 @@
 
 During this 2-day sprint we'll join forces and contribute to the Django
 Web Framework. We hope to resolve many tickets again and make Django
-more stable, advanced, powerful and whatnot. We try to have at least one
+more stable, advanced, powerful and whatnot! We try to have at least one
 sprint every year. You can follow us on Meetup.com and Twitter.
 
 - Misschien wat info over wat de laatste tijd gebeurd is met Django?
