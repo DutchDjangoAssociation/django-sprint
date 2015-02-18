@@ -33,7 +33,7 @@ you.
 ### Django's bug tracker
 
 During a sprint, a lot of people are working on Django at the same time.
-To prevent people from working on the same issue's, we use Django's bug
+To prevent people from working on the same issues, we use Django's bug
 tracker. Before you start working on an issue, you have to assign it to
 yourself, so someone else won't start working on it too. If the issue
 doesn't exist yet, you should create it first, but make sure you don't
@@ -46,7 +46,7 @@ thousand, so it's sometimes hard to choose what to work on. Use the
 search and filter features to look for something you find appropriate.
 
 For your first contribution to Django, it's recommended to take an "easy
-pickings" issue. These issue's should be fairly easy to resolve, even if
+pickings" issue. These issues should be fairly easy to resolve, even if
 you don't have a lot of experience with Django or Python.
 
 Some tickets might not be clear to you. Some might have become
