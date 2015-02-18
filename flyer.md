@@ -37,7 +37,7 @@ To prevent people from working on the same issues, we use Django's bug
 tracker. Before you start working on an issue, you have to assign it to
 yourself, so someone else won't start working on it too. If the issue
 doesn't exist yet, you should create it first, but make sure you don't
-create a duplicate issue.
+create a duplicate.
 
 ### Open tickets
 
