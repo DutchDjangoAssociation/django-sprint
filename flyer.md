@@ -1,8 +1,7 @@
 # Welcome to the Dutch Django sprint 2015!
 
-During this 2-day sprint we'll join forces and contribute to the Django
-Web Framework. Triage or solve tickets, easy or hard ones, improve
-existing patches, make the documentation better, take your pick!
+### During this 2-day sprint we'll join forces and contribute to the Django
+Web Framework.
 
 
 ## How does it work?
