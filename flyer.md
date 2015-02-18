@@ -60,9 +60,19 @@ free!
 
 ## Let's get started already!
 
-Allright, clone Django from github.com/django/django and make some
+Allright, clone Django from **github.com/django/django** and make some
 awesome pull requests. Links to the bug tracker and important
-information about contribution and sprints can be found on
-github.com/gitaarik/django-sprint.
+information about contribution can be found on
+**github.com/gitaarik/django-sprint**. Also join in to the
+`#django-sprint` IRC channel on freenode.
+
+There are four core developers present during the sprint:
+
+- Baptiste Mispelon
+- Markus Holtermann
+- Daniele Procida
+- Erik Romijn
+
+Feel free to come to us with questions and suggestions.
 
 Good luck!
