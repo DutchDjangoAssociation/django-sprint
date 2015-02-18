@@ -7,17 +7,17 @@ existing patches, make the documentation better, take your pick!
 
 ## How does it work?
 
-Basically you can just find a spot where you can work
-comfortably, and contribute to Django in any way you like! Naturally you
-can fix bugs or work on new features, but you can also improve
-documentation, write missing unit-tests, improve localization or
-anything else you can think of. The best way you can contribute is to
-work on something you're motivated about!
+Basically you can just find a spot where you can work comfortably, and
+contribute to Django in any way you like! Naturally you can fix bugs or
+work on new features, but you can also improve documentation, write
+missing unit-tests, improve localization or anything else you can think
+of. The best way you can contribute is to work on something you're
+motivated about!
 
-If you've never contributed to Django before, this sprint will be a good
-place to start! There are lots of people around that can help you. There
-are also core-developers that have deep knowledge of Django. If you have
-a question, don't hesitate to ask someone!
+If you've never contributed to Django before, a sprint is a good place
+to start. There are lots of people around that are willing to help,
+including four core-developers that have deep knowledge of Django. If
+you have a question, don't hesitate to ask someone.
 
 It's recommended to start with something easy, like improving
 documentation or fix a simple bug. Through this you'll get a better idea
