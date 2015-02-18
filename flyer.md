@@ -1,4 +1,4 @@
-# Welcome to the Django Sprint!
+# Welcome to the Dutch Django sprint 2015!
 
 During this 2-day sprint we'll join forces and contribute to the Django
 Web Framework. Triage or solve tickets, easy or hard ones, improve
