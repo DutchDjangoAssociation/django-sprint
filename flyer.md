@@ -46,9 +46,9 @@ thousand - so it's sometimes hard to choose what to work on. Use the
 search and filter features to look for something you find interesting
 and appropriate.
 
-For your first contribution to Django, it's recommended to take an "easy
-pickings" issue. These issues should be fairly easy to resolve, even if
-you don't have a lot of experience with Django or Python.
+For your first contribution to Django, it's recommended to take an
+**easy pickings** issue. These issues should be fairly easy to resolve,
+even if you don't have a lot of experience with Django or Python.
 
 Some tickets might not be clear to you. Some might have become
 irrelevant, and weren't closed for some reason. Some might require more
