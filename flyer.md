@@ -53,7 +53,7 @@ even if you don't have a lot of experience with Django or Python.
 Some tickets might not be clear to you. Some might have become
 irrelevant, and weren't closed for some reason. Some might require more
 discussion before the ticket can be acted upon. A sprint is an excellent
-place to ask questions and discuss about these kind of things.
+opportunity to ask questions and discuss about these kind of things.
 
 
 ## Let's get started
