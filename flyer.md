@@ -56,7 +56,7 @@ discussion before the ticket can be acted upon. A sprint is an excellent
 place to ask questions and discuss about these kind of things.
 
 
-## Let's get started already!
+## Let's get started
 
 Allright, clone Django from **github.com/django/django** and make some
 awesome pull requests. Links to the bug tracker and important
