@@ -34,10 +34,10 @@ you.
 
 During a sprint, a lot of people are working on Django at the same time.
 To prevent people from working on the same issue's, we use Django's bug
-tracker. So before you start working on an issue, you have to assign it
-to yourself. Then someone else won't start working on that issue too. If
-the issue doesn't exist yet, you should create it, but make sure you
-don't create a duplicate issue.
+tracker. Before you start working on an issue, you have to assign it to
+yourself, so someone else won't start working on it too. If the issue
+doesn't exist yet, you should create it first, but make sure you don't
+create a duplicate issue.
 
 ### Open tickets
 
