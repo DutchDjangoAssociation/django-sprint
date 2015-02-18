@@ -22,3 +22,6 @@ Django - https://docs.djangoproject.com/en/1.7/internals/contributing/
 Development dashboard - https://dashboard.djangoproject.com/
 
 Django Code of Conduct - https://www.djangoproject.com/conduct/
+
+How to make a pull request - https://docs.djangoproject.com/en/1.7/internals/contributing/writing-code/working-with-git/
+
