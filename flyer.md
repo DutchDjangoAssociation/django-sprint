@@ -41,8 +41,8 @@ create a duplicate.
 
 ### Open tickets
 
-There are a lot of open tickets in Django's bug tracker, over a
-thousand, so it's sometimes hard to choose what to work on. Use the
+There are a lot of open tickets in Django's bug tracker - over a
+thousand - so it's sometimes hard to choose what to work on. Use the
 search and filter features to look for something you find appropriate.
 
 For your first contribution to Django, it's recommended to take an "easy
