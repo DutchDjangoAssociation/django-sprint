@@ -7,7 +7,7 @@ sprint every year. You can follow us (the Dutch Django Association) on
 DjangoVereniging.nl, Meetup.com and Twitter.
 
 A lot has happend to Django since our last sprint back in November, that
-was organized a day after the successful "Django: Under The Hood"
+was organized a day after the successful *Django: Under The Hood*
 conference.
 
 
