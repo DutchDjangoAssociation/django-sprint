@@ -15,7 +15,7 @@ conference.
 like:*
 
 - Django 1.8 alpha release
-- Website redesign
+- Django website redesign
 - Success of the fellowship program
 
 *And then list some other upcoming events:*
