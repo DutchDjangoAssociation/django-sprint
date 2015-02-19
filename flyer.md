@@ -4,11 +4,26 @@ During this 2-day sprint we'll join forces and contribute to the Django
 Web Framework. We hope to resolve many tickets again and make Django
 more stable, advanced, powerful and whatnot! We try to have at least one
 sprint every year. You can follow us (the Dutch Django Association) on
-Meetup.com and Twitter.
+DjangoVereniging.nl, Meetup.com and Twitter.
 
-- Misschien wat info over wat de laatste tijd gebeurd is met Django?
-  Nieuwe website, migrations in 1.7, nieuwe ontwikkelingen, wat gaat er
-  komen, beetje globaal beeld.
+A lot has happend to Django since our last sprint back in November, that
+was organized a day after the successful "Django: Under The Hood"
+conference.
+
+
+*Over here, tell something about what happened to Django lately, stuff
+like:*
+
+- Django 1.8 alpha release
+- Website redesign
+- Success of the fellowship program
+
+*And then list some other upcoming events:*
+
+- DjangoCon Europe 2015, Cardiff, Wales - from May 31 to June 5
+- Djangovillage 2015 - April 17
+- Django Sprint London - May 21 & 22
+- Django Sprint Brno, Czech Republic - Februari 8
 
 
 ## How does it work?
