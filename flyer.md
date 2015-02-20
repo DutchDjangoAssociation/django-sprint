@@ -6,7 +6,7 @@ more stable, advanced, powerful and whatnot! We try to have at least one
 sprint every year. You can follow us (the Dutch Django Association) on
 DjangoVereniging.nl, Meetup.com and Twitter.
 
-Much has happend to Django since our last sprint back in November, that
+A lot happend to Django since our last sprint back in November, that
 was organized a day after the successful *Django: Under The Hood*
 conference.
 
