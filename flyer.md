@@ -54,10 +54,10 @@ snacks are provided by the Dutch Django Association.
 
 During a sprint, a lot of people are working on Django at the same time.
 To prevent people from working on the same issues, we use Django's bug
-tracker. Before you start working on an issue, make sure to assign it to
-yourself, so someone else won't start working on it too. If the issue
-doesn't exist yet, you should create one, but look for an existing
-ticket first so you don't create a duplicate. If a ticket was already
+tracker. Before you start working on a ticket, make sure to assign it to
+yourself, so others can see you're on it already. If you want to work on
+an improvement, but there is no ticket yet, create one.
+If a ticket was already
 assigned to someone in the past but they don't appear to work on it
 anymore, feel free to take it.
 
@@ -77,11 +77,27 @@ irrelevant, and weren't closed for some reason. Some might require more
 discussion before the ticket can be acted upon. A sprint is an excellent
 opportunity to ask questions and discuss about these kind of things.
 
+### Pull requests and commits
+
+All development on Django is done on GitHub. Code and documentation are
+part of the same git repository. Once you have some changes that you
+think are ready for review, you push them to your own fork of the 
+repository and create a pull request (PR). In the PR, note the number
+of the ticket, e.g. `Fixed #1234 -- Clarified ModelForm documentation`.
+
+A second person should then review your contribution. They may get
+back to you with suggested improvements or points for discussion.
+Once review is completed, the ticket can get a final review from 
+a core developer and may be committed into Django. Sometimes
+the first review is directly done by a core developer.
 
 ## Let's get started
 
-Allright, clone Django from **github.com/django/django** and make some
-awesome pull requests. Links to the bug tracker and important
+Fork **github.com/django/django** into your own GitHub account
+and get a local clone of your repository. The documentation is also
+all part of that repo - translations are managed through Transifex.
+
+Links to the bug tracker and important
 information about contribution can be found on
 **github.com/DutchDjangoAssociation/django-sprint**. Also join in to the
 `#django-sprint` IRC channel on freenode.
@@ -98,6 +114,20 @@ most of us by our red Django sprint t-shirts.
 
 Good luck!
 
+## Terminology
+
+### Common ticket statuses and flags
+- New: a new ticket which has not had any review of another person of whether this is a real bug or good feature request
+- Accepted: a ticket of which the idea/report, but not the code, has been reviewed and validated by another contributor
+- Ready for checkin: a ticket with a patch that was also reviewed by another contributor and is ready for core developer checkin
+- Has patch: a flag that indicates a ticket has a patch (an associated PR)
+- Patch needs improvement: a flag that the current patch needs more work. Details are found in either ticket comments or comments on the PR on GitHub
+
+Generally, if you add a patch to a ticket you should not yourself set it to Ready for checkin, unless the patch is very trivial.
+
+### Other terms
+
+- Pull request: a request on GitHub to contribute changes to the Django repository, usually called PR
 
 ## Other events
 
