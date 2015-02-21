@@ -132,7 +132,7 @@ Ready for checkin, unless the patch is very trivial.
 
 ## Other upcoming Django sprints and events
 
-- *Django Sprint Brno, Czech Republic* - Februari 8
-- *Djangovillage 2015* - During PyCon Italia, Florence, Italy, April 17-19
-- *Django Sprint London* - May 21 & 22
-- *DjangoCon Europe 2015* - Cardiff, Wales - May 31 to June 5
+- **Django Sprint** - Brno, Czech Republic - Februari 8
+- **Djangovillage 2015** - During PyCon Italia, Florence, Italy - April 17-19
+- **Django Sprint** - London, UK - May 21 & 22
+- **DjangoCon Europe 2015** - Cardiff, Wales - May 31 to June 5
