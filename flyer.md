@@ -3,45 +3,42 @@
 During this 2-day sprint we'll join forces and contribute to the Django Web
 Framework. We hope to work on many tickets and make Django more stable,
 advanced, powerful, easier to use, and so on. The Dutch Django Association aims
-to do one sprint every year. You can follow us on DjangoVereniging.nl,
+to organise one sprint every year. You can follow us on DjangoVereniging.nl,
 Meetup.com and Twitter (@DutchDjango).
 
-A lot has happend to Django since our last sprint back in November, that was
-organized a day after the successful *Django: Under The Hood* conference.
+Major recent developments in Django are:
 
-*Over here, tell something about what happened to Django lately, stuff like:*
-
-- Django 1.8 alpha release
-- Django website redesign
-- Success of the fellowship program
-- Pluggable template engines
-- django.contrib.postgres
-- (have a look through the release notes for more)
-
+- The formalisation of the `Model._meta` API, offering access to model fields
+- Support for multiple pluggable template engines
+- The addition of `django.contrib.postgres`, offering access to PostgreSQL specific features
+- Security improvements by integrating django-secure
+- The release of the first alpha of Django 1.8 with all of the above
+- A complete redesign of the Django website (also in scope for the sprint)
+- A renewal of the very succesful fellowship program
 
 ## How does it work?
 
 Find a spot where you can work comfortably, and contribute to Django in any way
 you like! Naturally you can fix bugs or work on new features, but you can also
-improve documentation, write missing unit-tests, validate bugs reported by
-others,  improve localization or anything else you can think of. The best way
-you can contribute is to work on something you're motivated about!
+improve documentation, write missing unit tests, validate bugs reported by
+others, improve localization or anything else you can think of. The best way
+to contribute is to work on something you're motivated about!
 
 If you've never contributed to Django before, a sprint is a good place to
 start. There are lots of people around that are willing to help, including four
-core-developers that have deep knowledge of Django. If you have a question,
+core developers that have deep knowledge of Django. If you have a question,
 don't hesitate to ask someone. You can always ask a core developer, but your
 neighbour might have the answer as well. You could also ask in the
 `#django-sprint` channel on freenode IRC.
 
 It's recommended to start with something easy, like improving the documentation
-of a feature you found hard to understand or found to have confusing
-documentation. You could try to fix a simple bug. Through this you'll get a
-better idea how the contribution process works, and you will be more successful
-for your bigger contributions later on. You can work on something by yourself,
-team up with others, pair program, or have an occasional good talk with your
-fellow Django-enthusiasts! Lunch, dinner, drinks and snacks are provided by the
-Dutch Django Association.
+of a feature you found hard to understand or to have confusing documentation.
+You could try to fix a simple bug, or to suggest a small new improvement.
+Through this you'll get a better idea how the contribution process works, and
+you will be more successful for your bigger contributions later on. You can work
+on something by yourself, team up with others, pair program, or have an occasional
+good talk with your fellow Django-enthusiasts! Lunch, dinner, drinks and snacks
+are provided by the Dutch Django Association.
 
 
 ## Where do I begin?
@@ -68,7 +65,7 @@ don't have a lot of experience with Django or Python.
 Some tickets might not be clear to you. Some might have become irrelevant, and
 weren't closed for some reason. Some might require more discussion before the
 ticket can be acted upon. A sprint is an excellent opportunity to ask questions
-and discuss about these kind of things.
+and discuss these kind of issues.
 
 ### Pull requests and commits
 
@@ -76,12 +73,16 @@ All development on Django is done on GitHub. Code and documentation are part of
 the same git repository. Once you have some changes that you think are ready
 for review, you push them to your own fork of the repository and create a pull
 request (PR). In the PR, note the number and a short description of the ticket,
-e.g. `Fixed #1234 -- Clarified ModelForm documentation`.
+e.g. `Fixed #1234 -- Clarified ModelForm documentation`. Add a link to the PR
+to your ticket and mark it as *has patch*.
 
 A second person should then review your contribution. They may get back to you
-with suggested improvements or points for discussion. Once review is completed,
-the ticket can get a final review from a core developer and may be committed
-into Django. Sometimes the first review is directly done by a core developer.
+with suggested improvements or points for discussion. They can add comments on
+the PR, on the ticket, or talk to you in person. If they feel the patch needs
+improvement, they'll set *patch needs improvement*. When you've made improvements,
+you unset that flag again. Once review is completed, the ticket can get a final
+review from a core developer and may be committed into Django. Sometimes the first
+review is directly done by a core developer.
 
 
 ## Let's get started
@@ -108,27 +109,35 @@ of us by our red Django sprint t-shirts.
 Good luck!
 
 
-## Terminology
+## Ticket statuses
 
-### Common ticket statuses and flags
+Django's ticket statuses can be a little daunting at first. Here's a quick
+overview:
 
 - **New**: a new ticket which has not had any review of another person of whether
-  this is a real bug or good feature request
+  this is a real bug or good feature request.
 - **Accepted**: a ticket of which the idea/report, but not the code, has been
-  reviewed and validated by another contributor
-- **Has patch**: a flag that indicates a ticket has a patch (an associated PR)
-- **Patch needs improvement**: a flag that the current patch needs more work.
-  Details are found in either ticket comments or comments on the PR on GitHub
+  reviewed and validated by another contributor.
+- **Accepted**: a ticket of which the idea/report has been
+  reviewed and validated by another contributor.
 - **Ready for checkin**: a ticket with a patch that was also reviewed by another
   contributor and is ready for core developer checkin
 
 Generally, if you add a patch to a ticket you should not yourself set it to
 Ready for checkin, unless the patch is very trivial.
 
-### Other terms
+// Misschien kunnen we https://docs.djangoproject.com/en/1.7/_images/triage_process.svg hier opnemen?
 
-- **Pull request**: a request on GitHub to contribute changes to the Django
-  repository, usually called PR
+## About the Dutch Django Association
+
+The Django Vereniging (Dutch for Django Association) is a non-profit association
+aiming to improve communication between Django developers and users, and promoting
+Django in the Netherlands. We do this mainly by organising and facilitating meetups,
+conferences and other events. We are always on the lookout for other ways to
+progress our goals. If you're organising an event, the association may be able
+to support you. The membership of the association is open to anyone.
+
+The association was founded in 2011, as the official organiser of Djangocon EU 2011.
 
 ## Other upcoming Django sprints and events
 
