@@ -9,9 +9,9 @@ Meetup.com and Twitter (@DutchDjango).
 Please note that the Django code of conduct applies to this event. Be welcoming,
 considerate and respectful to your fellow attendees. Do not insult or put down
 others. Harassment and other exclusionary behavior aren't acceptable.
-If you believe someone is violating the code of conduct, we ask that you report
-it by contacting erik@dashcare.nl, finding anyone with a red sprint t-shirt or
-by phone on +31 85 401 24 52.
+If you are feeling uncomfortable or unsave, or believe someone is violating the
+code of conduct, please report it by contacting erik@dashcare.nl,
+finding anyone with a red sprint t-shirt or by phone on +31 85 401 24 52.
 
 See the full code of conduct on:
 https://www.djangoproject.com/conduct/
