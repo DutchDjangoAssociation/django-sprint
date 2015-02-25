@@ -22,7 +22,7 @@ Major recent developments in Django are:
 - Support for multiple pluggable template engines
 - The addition of `django.contrib.postgres`, offering access to PostgreSQL specific features
 - Security improvements by integrating django-secure
-- The release of the first alpha of Django 1.8 with all of the above
+- The release of the first beta of Django 1.8 with all of the above
 - A complete redesign of the Django website (also in scope for the sprint)
 - A renewal of the very succesful fellowship program
 
