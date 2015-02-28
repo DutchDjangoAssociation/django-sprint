@@ -9,7 +9,7 @@ Meetup.com and Twitter (@DutchDjango).
 Please note that the Django code of conduct applies to this event. Be welcoming,
 considerate and respectful to your fellow attendees. Do not insult or put down
 others. Harassment and other exclusionary behavior aren't acceptable.
-If you are feeling uncomfortable or unsave, or believe someone is violating the
+If you are feeling uncomfortable or unsafe, or believe someone is violating the
 code of conduct, please report it by contacting erik@dashcare.nl,
 finding anyone with a red sprint t-shirt or by phone on +31 85 401 24 52.
 
@@ -90,9 +90,10 @@ A second person should then review your contribution. They may get back to you
 with suggested improvements or points for discussion. They can add comments on
 the PR, on the ticket, or talk to you in person. If they feel the patch needs
 improvement, they'll set *patch needs improvement*. When you've made improvements,
-you unset that flag again. Once review is completed, the ticket can get a final
-review from a core developer and may be committed into Django. Sometimes the first
-review is directly done by a core developer.
+you unset that flag again. Once review is completed, the ticket is set to 
+*ready for checkin* and can get a final review from a core developer and may be
+committed into Django. Sometimes the first review is directly done by a core
+developer.
 
 
 ## Let's get started
@@ -126,9 +127,7 @@ overview:
 
 - **New**: a new ticket which has not had any review of another person of whether
   this is a real bug or good feature request.
-- **Accepted**: a ticket of which the idea/report, but not the code, has been
-  reviewed and validated by another contributor.
-- **Accepted**: a ticket of which the idea/report has been
+- **Accepted**: a ticket of which the idea/report, but not necessarily the code, has been
   reviewed and validated by another contributor.
 - **Ready for checkin**: a ticket with a patch that was also reviewed by another
   contributor and is ready for core developer checkin
